@@ -41,13 +41,28 @@ Choose the Spring Web dependency under Web.
 
 ### 1. Get all
 
-
+![getAllCarts](Screenshot getAllCarts.png)
 
 ### 2. Get a single
-### 3. Limit results
-### 4. Sort results
+
+![getCartById](Screenshot getCartById.png)
+
 ### 5. get in date range
+
+![getAllCarts](Screenshot getAllCarts.png)
+
 ### 6. get user cart
+
+![getAllCarts](Screenshot getAllCarts.png)
+
 ### 7. Add new cart
+
+![getAllCarts](Screenshot getAllCarts.png)
+
 ### 8. Update a cart
+
+![getAllCarts](Screenshot getAllCarts.png)
+
 ### 9. Delete a cart
+
+![getAllCarts](Screenshot getAllCarts.png)
