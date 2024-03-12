@@ -18,14 +18,36 @@ Choose the following dependencies under Developer Tools:
 Choose the Spring Web dependency under Web.
 
 ## How To Test An API Using Postman
-Step 1. Sign up for a Postman Account
+
+### Step 1. Sign up for a Postman Account
 <img src="https://assets.apidog.com/blog/2023/10/log-in-postman-online.png">
 
-Step 2. Create a New Request
+### Step 2. Create a New Request
 <img src="https://assets.apidog.com/blog/2023/05/create-new-request-postman.png">
 
-Step 3. Enter Request Methods, Parameters
+### Step 3. Enter Request Methods, Parameters
 <img src="https://assets.apidog.com/blog/2023/05/request-detailed-postman.png">
 
-Step 4. Send the Request
+### Step 4. Send the Request
 <img src="https://assets.apidog.com/blog/2023/05/send-postman-request.png">
+
+
+# DELIVERABLES
+
+## Find the source code of Spring Boot Application Below :
+<a href="https://github.com/abhishekshah5486/SpringBootApplicationSEM2">
+
+## METHODS/FUNCTIONALITIES IMPLEMENTED IN THE SPRING BOOT PROJECT
+
+### 1. Get all
+
+
+
+### 2. Get a single
+### 3. Limit results
+### 4. Sort results
+### 5. get in date range
+### 6. get user cart
+### 7. Add new cart
+### 8. Update a cart
+### 9. Delete a cart
